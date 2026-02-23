@@ -1,0 +1,22 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="200" fill="#0f2027"/>
+
+  <g stroke="#38BDF8" stroke-width="1.5" opacity="0.7">
+    <line x1="100" y1="50" x2="300" y2="150">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+    </line>
+    <line x1="300" y1="150" x2="600" y2="60">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite"/>
+    </line>
+    <line x1="600" y1="60" x2="800" y2="140">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <g fill="#38BDF8">
+    <circle cx="100" cy="50" r="6"/>
+    <circle cx="300" cy="150" r="6"/>
+    <circle cx="600" cy="60" r="6"/>
+    <circle cx="800" cy="140" r="6"/>
+  </g>
+</svg>
