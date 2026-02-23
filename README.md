@@ -74,10 +74,6 @@
 <td align="right"><sub>Currently</sub></td>
 <td align="left"><sub>→ &nbsp; Building intelligent systems & preparing for Masters abroad</sub></td>
 </tr>
-<tr>
-<td align="right"><sub>Tagline</sub></td>
-<td align="left"><sub>→ &nbsp; I build what others imagine.</sub></td>
-</tr>
 </table>
 
 </div>
@@ -88,45 +84,39 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-**`// LANGUAGES`**
-
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41)
-
-</td>
-<td align="center" width="33%">
-
-**`// AI & ML`**
-
+![ROS](https://img.shields.io/badge/ROS-000000?style=for-the-badge&logo=ros&logoColor=00FF41)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF41)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-000000?style=for-the-badge&logoColor=00FF41)
-![Classification](https://img.shields.io/badge/Classification-000000?style=for-the-badge&logoColor=00FF41)
-![Clustering](https://img.shields.io/badge/Clustering-000000?style=for-the-badge&logoColor=00FF41)
-![Regression](https://img.shields.io/badge/Regression-000000?style=for-the-badge&logoColor=00FF41)
-
-</td>
-<td align="center" width="33%">
-
-**`// DATA`**
-
 ![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=00FF41)
 
-</td>
-</tr>
+<br>
+
+<table>
 <tr>
-<td align="center" colspan="3">
+<td align="center" width="25%">
 
-**`// ROBOTICS & EMBEDDED SYSTEMS`**
+🧠 **Machine Learning**
+<br><sub>Classification · Clustering<br>Regression · Ridge Regression</sub>
 
-![ROS](https://img.shields.io/badge/ROS-000000?style=for-the-badge&logo=ros&logoColor=00FF41)
-![Gazebo](https://img.shields.io/badge/Gazebo-000000?style=for-the-badge&logoColor=00FF41)
-![Kinematics](https://img.shields.io/badge/Direct_&_Inverse_Kinematics-000000?style=for-the-badge&logoColor=00FF41)
-![6DOF](https://img.shields.io/badge/6DOF_Robotic_Arm_(Mitsubishi)-000000?style=for-the-badge&logoColor=00FF41)
+</td>
+<td align="center" width="25%">
+
+🤖 **Robotics**
+<br><sub>ROS · Gazebo · Robo Analyser<br>6DOF Arm · RoboToolkit</sub>
+
+</td>
+<td align="center" width="25%">
+
+⚙️ **Mechanics**
+<br><sub>Direct & Inverse Kinematics<br>Actuator Design · Dynamics</sub>
+
+</td>
+<td align="center" width="25%">
+
+📊 **Data & Viz**
+<br><sub>Tableau · Data Analysis<br>Pattern Recognition</sub>
 
 </td>
 </tr>
