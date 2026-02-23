@@ -12,14 +12,24 @@
 
 <div align="center">
 
+<table border="0">
+<tr><td align="center">
+
 ```
-╔══════════════════════════════════════════════════════════╗
-║           SUBJECT FILE — SAHANA G IYER                  ║
-║           Classification: Engineer / Researcher          ║
-║           Specialisation: Robotics · AI · ML            ║
-║           Status: ACTIVE — Masters Candidate [SOON]      ║
-╚══════════════════════════════════════════════════════════╝
+  ┌──────────────────────────────────────────────────────┐
+  │                                                      │
+  │          SUBJECT FILE — SAHANA G IYER               │
+  │                                                      │
+  │   Classification  →  Engineer / Researcher           │
+  │   Specialisation  →  Robotics  ·  AI  ·  ML         │
+  │   Degree          →  B.Tech Electronics & CS         │
+  │   Status          →  ACTIVE  ·  Masters [ SOON ]     │
+  │                                                      │
+  └──────────────────────────────────────────────────────┘
 ```
+
+</td></tr>
+</table>
 
 </div>
 
@@ -62,7 +72,9 @@ subject = {
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF41)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-000000?style=for-the-badge&logoColor=00FF41)
-![ML](https://img.shields.io/badge/Classification·Clustering·Regression-000000?style=for-the-badge&logoColor=00FF41)
+![Classification](https://img.shields.io/badge/Classification-000000?style=for-the-badge&logoColor=00FF41)
+![Clustering](https://img.shields.io/badge/Clustering-000000?style=for-the-badge&logoColor=00FF41)
+![Regression](https://img.shields.io/badge/Regression-000000?style=for-the-badge&logoColor=00FF41)
 
 </td>
 <td align="center" width="33%">
