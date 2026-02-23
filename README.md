@@ -6,6 +6,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
 </p>
 
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=neural&text1=Embedded%20Systems&text2=Intelligent%20Architectures&width=900&height=200"/>
+</p>
+
 <h2 align="center">Sahana Iyer</h2>
 
 <p align="center">
