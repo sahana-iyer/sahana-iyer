@@ -12,23 +12,30 @@
 
 <div align="center">
 
-<table border="0">
-<tr><td align="center">
+<table>
+<tr>
+<td align="center" colspan="2">
 
-```
-  ┌──────────────────────────────────────────────────────┐
-  │                                                      │
-  │          SUBJECT FILE — SAHANA G IYER               │
-  │                                                      │
-  │   Classification  →  Engineer / Researcher           │
-  │   Specialisation  →  Robotics  ·  AI  ·  ML         │
-  │   Degree          →  B.Tech Electronics & CS         │
-  │   Status          →  ACTIVE  ·  Masters [ SOON ]     │
-  │                                                      │
-  └──────────────────────────────────────────────────────┘
-```
+**`SUBJECT FILE — SAHANA G IYER`**
 
-</td></tr>
+</td>
+</tr>
+<tr>
+<td align="right"><sub>Classification</sub></td>
+<td align="left"><sub>→ &nbsp; Engineer / Researcher</sub></td>
+</tr>
+<tr>
+<td align="right"><sub>Specialisation</sub></td>
+<td align="left"><sub>→ &nbsp; Robotics · AI · ML</sub></td>
+</tr>
+<tr>
+<td align="right"><sub>Degree</sub></td>
+<td align="left"><sub>→ &nbsp; B.Tech Electronics & Computer Engineering</sub></td>
+</tr>
+<tr>
+<td align="right"><sub>Status</sub></td>
+<td align="left"><sub>→ &nbsp; ACTIVE · Masters Candidate [ SOON ]</sub></td>
+</tr>
 </table>
 
 </div>
@@ -37,17 +44,43 @@
 
 ### `> whoami`
 
-```python
-subject = {
-    "name"        : "Sahana G Iyer",
-    "degree"      : "B.Tech — Electronics & Computer Engineering",
-    "focus"       : ["Robotics", "Artificial Intelligence", "Machine Learning"],
-    "hardware"    : 40,   # percent
-    "software"    : 60,   # percent
-    "currently"   : "Building intelligent systems & preparing for Masters abroad",
-    "tagline"     : "I build what others imagine."
-}
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" colspan="2">
+
+**`SAHANA G IYER`**
+
+</td>
+</tr>
+<tr>
+<td align="right"><sub>Degree</sub></td>
+<td align="left"><sub>→ &nbsp; B.Tech — Electronics & Computer Engineering</sub></td>
+</tr>
+<tr>
+<td align="right"><sub>Focus</sub></td>
+<td align="left"><sub>→ &nbsp; Robotics · Artificial Intelligence · Machine Learning</sub></td>
+</tr>
+<tr>
+<td align="right"><sub>Hardware</sub></td>
+<td align="left"><sub>→ &nbsp; 40%</sub></td>
+</tr>
+<tr>
+<td align="right"><sub>Software</sub></td>
+<td align="left"><sub>→ &nbsp; 60%</sub></td>
+</tr>
+<tr>
+<td align="right"><sub>Currently</sub></td>
+<td align="left"><sub>→ &nbsp; Building intelligent systems & preparing for Masters abroad</sub></td>
+</tr>
+<tr>
+<td align="right"><sub>Tagline</sub></td>
+<td align="left"><sub>→ &nbsp; I build what others imagine.</sub></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
