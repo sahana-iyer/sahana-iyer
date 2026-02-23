@@ -43,46 +43,97 @@ subject = {
 
 ### `> skills --list`
 
-**Languages**
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**`// LANGUAGES`**
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41)
 
-**AI / ML**
+</td>
+<td align="center" width="33%">
+
+**`// AI & ML`**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF41)
-![ML Models](https://img.shields.io/badge/Classification·Clustering·Regression-000000?style=for-the-badge&logoColor=00FF41)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-000000?style=for-the-badge&logoColor=00FF41)
+![ML](https://img.shields.io/badge/Classification·Clustering·Regression-000000?style=for-the-badge&logoColor=00FF41)
 
-**Robotics & Embedded Systems**
+</td>
+<td align="center" width="33%">
+
+**`// DATA`**
+
+![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=00FF41)
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+
+**`// ROBOTICS & EMBEDDED SYSTEMS`**
 
 ![ROS](https://img.shields.io/badge/ROS-000000?style=for-the-badge&logo=ros&logoColor=00FF41)
-![Gazebo](https://img.shields.io/badge/Gazebo_Simulator-000000?style=for-the-badge&logoColor=00FF41)
+![Gazebo](https://img.shields.io/badge/Gazebo-000000?style=for-the-badge&logoColor=00FF41)
 ![Kinematics](https://img.shields.io/badge/Direct_&_Inverse_Kinematics-000000?style=for-the-badge&logoColor=00FF41)
 ![6DOF](https://img.shields.io/badge/6DOF_Robotic_Arm_(Mitsubishi)-000000?style=for-the-badge&logoColor=00FF41)
 
-**Data & Visualisation**
+</td>
+</tr>
+</table>
 
-![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=00FF41)
+</div>
 
 ---
 
 ### `> projects --current`
 
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**`🌍 EARTHQUAKE PREDICTOR`**
+
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  [IN PROGRESS] Earthquake Predictor                         │
-│  → ML-based seismic event prediction model                  │
-│                                                             │
-│  [IN PROGRESS] Plant Species Identifier                     │
-│  → Computer Vision · CNN-based classification               │
-│                                                             │
-│  [IN PROGRESS] Humanoid RL Agent                            │
-│  → Reinforcement Learning on humanoid robot locomotion      │
-│  → Built on ROS + Gazebo simulation environment             │
-└─────────────────────────────────────────────────────────────┘
+STATUS: IN PROGRESS
+TYPE  : ML · Seismic Prediction
+STACK : Python · scikit-learn
 ```
+
+</td>
+<td width="33%" align="center">
+
+**`🌿 PLANT SPECIES IDENTIFIER`**
+
+```
+STATUS: IN PROGRESS
+TYPE  : Computer Vision · CNN
+STACK : Python · Deep Learning
+```
+
+</td>
+<td width="33%" align="center">
+
+**`🤖 HUMANOID RL AGENT`**
+
+```
+STATUS: IN PROGRESS
+TYPE  : Reinforcement Learning
+STACK : ROS · Gazebo · Python
+```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -90,7 +141,11 @@ subject = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/sahana-g-iyer-051407ju/)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000)](https://www.linkedin.com/in/sahana-g-iyer-051407ju/)
+
+<br>
 
 </div>
 
