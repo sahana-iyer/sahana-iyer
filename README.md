@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=neural&text1=Embedded%20Systems&text2=Intelligent%20Architectures&width=900&height=200"/>
+  <img src="assets/neural.svg"/>
 </p>
 
 <h2 align="center">Sahana Iyer</h2>
