@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Electronics-Driven+Engineer;Embedded+Systems+%7C+AI+Systems;Building+Real-World+Intelligent+Architectures"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Electronics-Driven+Engineer;Embedded+Systems+%7C+AI+Systems;Building+Real-World+Intelligent+Architectures"/>
 </p>
 
 <p align="center">
@@ -9,20 +9,19 @@
 <h2 align="center">Sahana Iyer</h2>
 
 <p align="center">
-Systems Architecture • Embedded Intelligence • Implementation First
+Hardware-First • Systems Architecture • Implementation Over Hype
 </p>
 
 ---
 
-## Engineering Distribution
+## Engineering Focus
 
-<p align="center">
-  <img src="https://progress-bar.dev/60/?title=Electronics+%26+Embedded&width=500&color=00BFFF"/>
-</p>
+Electronics & Embedded Systems  
+AI & Intelligent Architectures  
+Robotics & Real-Time Systems  
 
-<p align="center">
-  <img src="https://progress-bar.dev/40/?title=Software+%26+AI+Systems&width=500&color=555"/>
-</p>
+I prioritize building real systems — hardware to software —  
+with documented learning and measurable implementation.
 
 ---
 
@@ -34,7 +33,7 @@ Systems Architecture • Embedded Intelligence • Implementation First
 
 ---
 
-## Live System Metrics
+## Live Engineering Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahana-iyer&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -46,26 +45,8 @@ Systems Architecture • Embedded Intelligence • Implementation First
 
 ---
 
-## 3D Contribution Calendar
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahana-iyer&theme=tokyonight"/>
-</p>
-
----
-
-## Repository Metrics
-
-<p align="center">
-  <img src="https://img.shields.io/github/repos/sahana-iyer?color=00BFFF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/sahana-iyer?color=0A0A0A&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/sahana-iyer?color=00BFFF&style=for-the-badge"/>
-</p>
-
----
-
-<p align="center">
-  Engineering ideas into reality.
+Engineering ideas into reality.
 </p>
 
 <p align="center">
